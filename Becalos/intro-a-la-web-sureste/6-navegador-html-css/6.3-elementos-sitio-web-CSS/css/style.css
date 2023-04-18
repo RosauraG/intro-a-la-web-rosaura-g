@@ -1,44 +1,48 @@
 body{
-    background-color: #caf0f8;
-    font-family: 'Poppins', sans-serif;
+    background-color: #3a86ff;
+    font-family: 'Noto Serif', serif;
 }
 
 header{
-    background-color: #03045e;
+    background-color: #BF375B;
     color: azure;
-    padding: 10px 20px;
-    margin: 50px;
+    padding:100px 50px 25px 12px 
+    margin:50px
 }
 
 .secciones{
     width: 100%;
     text-align: center;
+
 }
 
 section{
-    display: inline-block;
-    margin: 25px;
-    background-color: #00b4d8;
-    padding: 25px;
-    border-radius: 17px;
-    box-shadow: 5px 5px 15px gray;
-    border: 1px solid gray;
+    display:inline-block;
+    margin:25px;
+    background-color: #FF1A6B;
+    padding:25px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px =gray;
+    border:5px solid gray;
 }
 
 .beach{
     width: 250px;
     height: 150px;
-    border-radius: 17px;
+    border-radius: 20px;
 }
 
 .description{
     width: 250px;
+    
 }
 
 
 
 #cuerpo{
-    background-color: #90e0ef;
+    background-color: #DE24E3;
     padding: 20px;
     margin: 0 20px;
+
 }
+
